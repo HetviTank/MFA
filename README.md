@@ -15,4 +15,4 @@ Make sure you have the following installed:
 Install PyOTP and QRCode using:
 
 ```bash
-pip install pyotp qrcode[pil]
+pip install pyotp qrcode
